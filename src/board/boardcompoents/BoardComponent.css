@@ -1,0 +1,18 @@
+.boardcomponent{
+    /* display: flex; */
+}
+
+.body{
+    display: flex;
+    margin-top: 43px;
+}
+
+.body-component{
+    width: 74vw;
+}
+
+.sidebar{
+    margin-right: 7rem;
+}
+
+

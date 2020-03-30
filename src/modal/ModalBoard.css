@@ -1,0 +1,9 @@
+.title{
+    padding: 2px;
+    width: 18rem;
+    /* border-radius: 3px; */
+    box-sizing: border-box;
+    /* border-style: none; */
+    border-color: grey;
+    border: 1px solid grey;
+}

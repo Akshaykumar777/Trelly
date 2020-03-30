@@ -1,0 +1,14 @@
+.lists {
+
+}
+
+.new-list {
+    background-color: #fff5;
+    border-color: transparent;
+}
+
+.title{
+    margin: 10px 0px;
+    width: 13rem;
+    border: 2px solid grey;
+}

@@ -1,0 +1,20 @@
+.header-parent{
+    background: #026aa7;
+    display: flex;
+    color: white;
+    width: 100vw;
+    height: 6vh;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+.trello{
+    font-size: 23px;
+    opacity: .5;
+    font-style: italic;
+}
+
+.fab{
+    margin-right: 5px;
+    height: 10px;
+}

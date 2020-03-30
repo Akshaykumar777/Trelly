@@ -1,0 +1,21 @@
+.sidenav{
+    width: 17vw;
+    /* margin-top: 43px; */
+    /* padding: 0px 26px; */
+    padding-left: 108px;
+    height: 85vh;
+    margin-right: 72px;
+}
+
+.sidenav-child1{
+    padding: 3%;
+    color: #026aa7;
+    font-size: 14px;
+    background: #e4f0f6;
+    border-radius: 3px;
+    width: 17vw;
+}
+
+.span-boards{
+    font-weight: 600;
+}
